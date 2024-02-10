@@ -1,4 +1,2 @@
 # EMDD-630-BH
-# This is a comment
-Hello World
-# 😅😅
+# GitHub was used to combine 2 separate Twine 
